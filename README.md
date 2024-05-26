@@ -1,16 +1,17 @@
-### Hi there 👋
+### Abdürrahim YILMAZ
+Pronouns: he/him
 
-<!--
-**yilmaz08/yilmaz08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Interests
+🧑🏻‍💻 Programming (Backend, Mobile Apps and more)
+🤖 Robotics
+🧠 Artificial Intelligence (LLMs and Neural Networks)
+🎮 Game Development
+🐧 Linux (especially arch btw)
 
-Here are some ideas to get you started:
+#### Education
+🏫 Teknopark Istanbul Vocational and Technical Anatolian High School (Start: 2022 Expected Graduation: 2027)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contact
+✉️ E-Mail: ayilmaz08@proton.me
+
+I am passionate about tech and innovation. I am always looking for new things to learn, share and use.
