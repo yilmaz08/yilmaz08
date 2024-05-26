@@ -1,7 +1,7 @@
 ### Abdürrahim YILMAZ
 * Pronouns: he/him
 * arch linux enthusiast
-* 
+
 #### Interests
 * 🧑🏻‍💻 Programming (Backend, Mobile Apps and more)
 * 🤖 Robotics
