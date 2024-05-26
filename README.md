@@ -1,6 +1,6 @@
 ### Abdürrahim YILMAZ
 * Pronouns: he/him
-* arch linux enthusiast
+* [Arch Linux](https://www.archlinux.org/) enthusiast
 
 #### Interests
 * 🧑🏻‍💻 Programming (Backend, Mobile Apps and more)
@@ -10,7 +10,7 @@
 * 🐧 Linux (especially arch btw)
 
 #### Education
-* 🏫 Teknopark Istanbul Vocational and Technical Anatolian High School (Start: 2022 Expected Graduation: 2027)
+* 🏫 [Teknopark Istanbul Vocational and Technical Anatolian High School](https://teknoparkistanbul.meb.k12.tr/) (Start: 2022 Expected Graduation: 2027)
 
 #### Contact
 * ✉️ E-Mail: ayilmaz08@proton.me
