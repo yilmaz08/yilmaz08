@@ -1,4 +1,4 @@
-### Abdürrahim YILMAZ
+## Abdürrahim YILMAZ
 * Pronouns: he/him
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
