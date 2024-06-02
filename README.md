@@ -3,7 +3,7 @@
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
 #### Interests
-* 🧑🏻‍💻 Programming (Backend, Mobile Apps and more)
+* 🧑🏻‍💻 Programming (Web, Mobile/Desktop Apps and more)
 * 🤖 Robotics
 * 🧠 Artificial Intelligence (LLMs and Neural Networks)
 * 🎮 Game Development
