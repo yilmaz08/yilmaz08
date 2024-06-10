@@ -7,7 +7,7 @@
 * 🤖 Robotics
 * 🧠 Artificial Intelligence (LLMs and Neural Networks)
 * 🎮 Game Development
-* 🐧 Linux (especially arch btw)
+* 🐧 Linux
 
 #### Education
 * 🏫 [Teknopark Istanbul Vocational and Technical Anatolian High School](https://teknoparkistanbul.meb.k12.tr/) (Start: 2022 Expected Graduation: 2027)
