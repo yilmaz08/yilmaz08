@@ -2,17 +2,17 @@
 * Pronouns: he/him
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
-#### Interests
+### Interests
 * 🧑🏻‍💻 Programming (Web, Mobile/Desktop Apps and more)
 * 🤖 Robotics
 * 🧠 Artificial Intelligence (LLMs and Neural Networks)
 * 🎮 Game Development
 * 🐧 Linux
 
-#### Education
+### Education
 * 🏫 [Teknopark Istanbul Vocational and Technical Anatolian High School](https://teknoparkistanbul.meb.k12.tr/) (Start: 2022 Expected Graduation: 2027)
 
-#### Contact
+### Contact
 * ✉️ E-Mail: ayilmaz08@proton.me
 * 🌐 Website: [ayilmaz.xyz](http://ayilmaz.xyz)
 
