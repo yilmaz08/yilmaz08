@@ -5,7 +5,7 @@
 ### Interests
 * 🧑🏻‍💻 Programming (Web, Mobile/Desktop Apps and more)
 * 🤖 Robotics
-* 🧠 Artificial Intelligence (LLMs and NNs)
+* 🧠 Artificial Intelligence (Language Models and Neural Networks)
 * 🎮 Game Development
 * 🐧 Linux
 
