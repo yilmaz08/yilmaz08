@@ -1,5 +1,6 @@
 # Abdürrahim YILMAZ
 * Pronouns: he/him
+* Turkish 🇹🇷
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
 ## Interests
