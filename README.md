@@ -6,10 +6,11 @@
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
 ## Interests
-* 🧑🏻‍💻 Programming (Web, Mobile/Desktop Apps and more)
-* 🤖 Robotics
-* 🧠 Artificial Intelligence (LLMs, NNs and txt2img)
+* 🧑🏻‍💻 Programming (Websites, Mobile/Desktop Apps and more)
+* 🌐 Networking
+* 🧠 Artificial Intelligence (LLMs, NNs and stable diffusion)
 * 🎮 Game Development
+* 🤖 Robotics
 * 🔒 Cryptography
 * 🐧 Linux
 
