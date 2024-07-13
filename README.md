@@ -18,7 +18,7 @@
 * 🏫 [Teknopark Istanbul Vocational and Technical Anatolian High School](https://teknoparkistanbul.meb.k12.tr/) (Start: 2022 Expected Graduation: 2027)
 
 ## Contact
-* ✉️ E-Mail: ayilmaz08@proton.me
+* ✉️ E-Mail: me@ayilmaz.xyz
 * 🌐 Website: [ayilmaz.xyz](http://ayilmaz.xyz)
 * 🔑 GPG Key: [2E923B5D](https://keys.openpgp.org/search?q=2E923B5DF050D5C185760018956B1E95E114612E)
 
