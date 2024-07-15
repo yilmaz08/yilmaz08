@@ -8,8 +8,8 @@
 ## Interests
 * 🧑🏻‍💻 Programming (Websites, Mobile/Desktop Apps and more)
 * 🌐 Networking
-* 🧠 Artificial Intelligence (LLMs, NNs and stable diffusion)
-* 🎮 Game Development
+* 🧠 Artificial Intelligence (LLMs and NNs)
+* 🖼️ Image generation
 * 🤖 Robotics
 * 🔒 Cryptography
 * 🐧 Linux
