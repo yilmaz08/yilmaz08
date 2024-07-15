@@ -10,6 +10,7 @@
 * 🌐 Networking
 * 🧠 Artificial Intelligence (LLMs and NNs)
 * 🖼️ Image generation
+* 🎮 Game Development
 * 🤖 Robotics
 * 🔒 Cryptography
 * 🐧 Linux
