@@ -6,7 +6,7 @@
 
 * Pronouns: he/him
 * Birth: 2008
-* Nationality: Turkish 🇹🇷
+* [Turkish 🇹🇷](https://www.youtube.com/watch?v=UBweXi2eC7E)
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
 ## Interests
