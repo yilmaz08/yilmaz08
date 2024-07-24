@@ -1,4 +1,9 @@
 # Abdürrahim YILMAZ
+
+[![website](https://img.shields.io/badge/website-ayilmaz.xyz-blue)](https://ayilmaz.xyz)
+[![email](https://img.shields.io/badge/email-ayilmaz@ayilmaz.xyz-blue)](mailto:ayilmaz@ayilmaz.xyz)
+[![pgp](https://img.shields.io/badge/pgp-0xBE2BA67ACDBC4CA5-blue)](https://keys.openpgp.org/search?q=ayilmaz@ayilmaz.xyz)
+
 * Pronouns: he/him
 * Birth: 2008
 * Nationality: Turkish 🇹🇷
@@ -16,10 +21,5 @@
 
 ## Education
 * 🏫 [Teknopark Istanbul Vocational and Technical Anatolian High School](https://teknoparkistanbul.meb.k12.tr/) (Start: 2022 Expected Graduation: 2027)
-
-## Contact
-* ✉️ E-Mail: ayilmaz@ayilmaz.xyz
-* 🌐 Website: [ayilmaz.xyz](https://ayilmaz.xyz)
-* 🔑 GPG Key: [D64427F0](https://keys.openpgp.org/search?q=ayilmaz@ayilmaz.xyz)
 
 I am passionate about tech and innovation. I am always looking for new things to learn, share and use.
