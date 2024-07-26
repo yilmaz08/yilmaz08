@@ -23,3 +23,10 @@
 * 🏫 [Teknopark Istanbul Vocational and Technical Anatolian High School](https://teknoparkistanbul.meb.k12.tr/) (Start: 2022 Expected Graduation: 2027)
 
 I am passionate about tech and innovation. I am always looking for new things to learn, share and use.
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmaz08&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=dark">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yilmaz08&size_weight=0.5&count_weight=0.5&langs_count=20&layout=compact&theme=dark" />
+</a>
+<a href="https://streak-stats.demolab.com/?user=yilmaz08&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3%22%20height=%22150%22%20alt=%22streak%20graph">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=yilmaz08&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3%22%20height=%22150%22%20alt=%22streak%20graph" />
+</a>
