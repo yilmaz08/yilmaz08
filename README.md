@@ -4,7 +4,6 @@
 [![email](https://img.shields.io/badge/email-ayilmaz@ayilmaz.xyz-blue)](mailto:ayilmaz@ayilmaz.xyz)
 [![pgp](https://img.shields.io/badge/pgp-0xBE2BA67ACDBC4CA5-blue)](https://ayilmaz.xyz/ayilmaz.gpg)
 
-* Birth: 2008 (16yo)
 * [Turkish 🇹🇷](https://www.youtube.com/watch?v=UBweXi2eC7E)
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
