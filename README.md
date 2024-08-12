@@ -1,8 +1,8 @@
 # Abdürrahim YILMAZ
 
-[![website](https://img.shields.io/badge/website-ayilmaz.xyz-blue)](https://ayilmaz.xyz)
-[![email](https://img.shields.io/badge/email-ayilmaz@ayilmaz.xyz-blue)](mailto:ayilmaz@ayilmaz.xyz)
-[![pgp](https://img.shields.io/badge/pgp-0xBE2BA67ACDBC4CA5-blue)](https://ayilmaz.xyz/ayilmaz.gpg)
+[![website](https://img.shields.io/badge/website-ayilmaz.xyz-1793D1)](https://ayilmaz.xyz)
+[![email](https://img.shields.io/badge/email-ayilmaz@ayilmaz.xyz-1793D1)](mailto:ayilmaz@ayilmaz.xyz)
+[![pgp](https://img.shields.io/badge/pgp-0xBE2BA67ACDBC4CA5-1793D1)](https://ayilmaz.xyz/ayilmaz.gpg)
 
 * [Arch Linux](https://www.archlinux.org/) enthusiast
 
