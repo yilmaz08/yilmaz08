@@ -7,6 +7,6 @@
     <a href="https://gitlab.com/yilmaz08">gitlab</a> -
     <a href="https://x.com/ayilmazdev">twitter</a> -
     <a href="https://mastodon.social/@ayilmaz">mastodon</a> -
-    <a href="https://go.ayilmaz.xyz/hidden">hidden</a>
+    <a href="https://go.ayilmaz.xyz/hidden">.</a>
   </samp>
 </p>
